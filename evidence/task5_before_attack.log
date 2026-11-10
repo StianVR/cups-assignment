@@ -1,0 +1,4 @@
+2026-11-10 14:57:05,481 INFO Sending discovery packet to 127.0.0.1:631
+2026-11-10 14:57:05,481 INFO Advertised printer: http://172.19.0.2:8632/printers/ScapyLabPort
+2026-11-10 14:57:05,481 INFO Payload: 0 5 http://172.19.0.2:8632/printers/ScapyLabPort "Test variation 3" "Alternate IPP port"
+2026-11-10 14:57:05,481 INFO Saved packet to pcap_files/task5_before_sender.pcap

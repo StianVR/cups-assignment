@@ -1,0 +1,2 @@
+timestamp,severity,alert,src,dst,details
+2026-11-10T14:01:51.356763+00:00,HIGH,UNAUTHORIZED_CUPS_ADVERTISEMENT,172.19.0.1,172.19.0.3,Browse datagram from an unapproved source

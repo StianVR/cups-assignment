@@ -1,0 +1,17 @@
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 process_browse_data() in THREAD 133425765360576
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 browse packet received from 172.19.0.1
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 process_browse_data: location: |Test variation 3|
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 process_browse_data: info: |Alternate IPP port|
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 CUPS browsing: Remote host: 172.19.0.2; Port: 8632; Remote queue name: ScapyLabPort; Service Name: Alternate IPP port @ 172.19.0.2
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 Found CUPS queue/class: ScapyLabPort on host 172.19.0.2.
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 cups-browsed [BrowsePoll /run/cups/cups.sock:0]: IPP-Get-Notifications
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 cups-browsed [BrowsePoll /run/cups/cups.sock:0]: no events
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 Matching printer "Alternate_IPP_port_172_19_0_2" with properties Host = "172.19.0.2", Port = 8632, Service Name = "Alternate IPP port @ 172.19.0.2", Domain = "" with the BrowseFilter lines in cups-browsed.conf
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 All BrowseFilter lines matched or skipped, accepting printer Alternate_IPP_port_172_19_0_2
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 update_netifs() in THREAD 133425765360576
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 Network interfaces: lo (127.0.0.1, localhost), eth0 (172.19.0.3, 6c5ec2bbbd8b, 172.19.0.3*), lo (::1)
+cups-1  | Tue Nov 10 13:57:05 2026 get-printer-attributes: Cannot connect to printer with URI ipp://172.19.0.2:8632/printers/ScapyLabPort.
+cups-1  | Tue Nov 10 13:57:05 2026 
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 get-printer-attributes IPP call failed on printer Alternate_IPP_port_172_19_0_2 (ipp://172.19.0.2:8632/printers/ScapyLabPort).
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 ERROR: Unable to create print queue, ignoring printer.
+cups-1  | Tue Nov 10 13:57:05 2026 133425765360576 listening

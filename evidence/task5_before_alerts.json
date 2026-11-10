@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-11-10T13:57:05.489028+00:00",
+    "severity": "HIGH",
+    "alert": "UNAUTHORIZED_CUPS_ADVERTISEMENT",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Browse datagram from an unapproved source"
+  },
+  {
+    "timestamp": "2026-11-10T13:57:05.489028+00:00",
+    "severity": "MEDIUM",
+    "alert": "UNEXPECTED_PRINTER_PORT",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Printer URI uses port 8632"
+  }
+]

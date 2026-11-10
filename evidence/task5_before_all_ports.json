@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-11-10T13:57:05.489028+00:00",
+    "severity": "HIGH",
+    "alert": "UNAUTHORIZED_CUPS_ADVERTISEMENT",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Browse datagram from an unapproved source"
+  },
+  {
+    "timestamp": "2026-11-10T13:57:05.501023+00:00",
+    "severity": "INFO",
+    "alert": "IPP_CONNECTION_OBSERVED",
+    "src": "172.19.0.3",
+    "dst": "172.19.0.2",
+    "details": "TCP connection attempt to allowed port 8632"
+  },
+  {
+    "timestamp": "2026-11-10T13:57:05.501182+00:00",
+    "severity": "INFO",
+    "alert": "IPP_CONNECTION_OBSERVED",
+    "src": "172.19.0.3",
+    "dst": "172.19.0.2",
+    "details": "TCP connection attempt to allowed port 8632"
+  }
+]
