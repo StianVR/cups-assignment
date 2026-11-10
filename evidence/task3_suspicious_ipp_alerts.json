@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-11-10T13:35:49.767660+00:00",
+    "severity": "HIGH",
+    "alert": "SUSPICIOUS_IPP_CONNECTION",
+    "src": "172.19.0.3",
+    "dst": "172.19.0.99",
+    "details": "TCP connection attempt to port 8631"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-11-10T12:02:47.704164+00:00",
+    "severity": "HIGH",
+    "alert": "UNAUTHORIZED_CUPS_ADVERTISEMENT",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Browse datagram from an unapproved source"
+  },
+  {
+    "timestamp": "2026-11-10T12:02:47.904164+00:00",
+    "severity": "HIGH",
+    "alert": "UNAUTHORIZED_CUPS_ADVERTISEMENT",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Browse datagram from an unapproved source"
+  },
+  {
+    "timestamp": "2026-11-10T12:02:48.104164+00:00",
+    "severity": "HIGH",
+    "alert": "UNAUTHORIZED_CUPS_ADVERTISEMENT",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Browse datagram from an unapproved source"
+  },
+  {
+    "timestamp": "2026-11-10T12:02:48.304164+00:00",
+    "severity": "HIGH",
+    "alert": "UNAUTHORIZED_CUPS_ADVERTISEMENT",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Browse datagram from an unapproved source"
+  },
+  {
+    "timestamp": "2026-11-10T12:02:48.504164+00:00",
+    "severity": "MEDIUM",
+    "alert": "REPEATED_DISCOVERY",
+    "src": "172.19.0.1",
+    "dst": "",
+    "details": "5 discovery messages within 10 seconds"
+  },
+  {
+    "timestamp": "2026-11-10T12:02:48.504164+00:00",
+    "severity": "HIGH",
+    "alert": "UNAUTHORIZED_CUPS_ADVERTISEMENT",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Browse datagram from an unapproved source"
+  }
+]

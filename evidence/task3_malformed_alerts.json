@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-11-10T13:32:58.157835+00:00",
+    "severity": "HIGH",
+    "alert": "UNAUTHORIZED_CUPS_ADVERTISEMENT",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Browse datagram from an unapproved source"
+  },
+  {
+    "timestamp": "2026-11-10T13:32:58.157835+00:00",
+    "severity": "MEDIUM",
+    "alert": "MALFORMED_BROWSE_PACKET",
+    "src": "172.19.0.1",
+    "dst": "172.19.0.3",
+    "details": "Unexpected browse payload: not a valid CUPS browse advertisement"
+  }
+]

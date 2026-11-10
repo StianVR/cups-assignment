@@ -1,0 +1,2 @@
+timestamp,severity,alert,src,dst,details
+2026-11-10T13:35:49.767660+00:00,HIGH,SUSPICIOUS_IPP_CONNECTION,172.19.0.3,172.19.0.99,TCP connection attempt to port 8631

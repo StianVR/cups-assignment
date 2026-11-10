@@ -1,0 +1,3 @@
+timestamp,severity,alert,src,dst,details
+2026-11-10T13:32:58.157835+00:00,HIGH,UNAUTHORIZED_CUPS_ADVERTISEMENT,172.19.0.1,172.19.0.3,Browse datagram from an unapproved source
+2026-11-10T13:32:58.157835+00:00,MEDIUM,MALFORMED_BROWSE_PACKET,172.19.0.1,172.19.0.3,Unexpected browse payload: not a valid CUPS browse advertisement

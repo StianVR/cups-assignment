@@ -1,0 +1,4 @@
+timestamp,severity,alert,src,dst,details
+2026-11-10T12:02:47.704164+00:00,HIGH,UNAUTHORIZED_CUPS_ADVERTISEMENT,172.19.0.1,172.19.0.3,Browse datagram from an unapproved source
+2026-11-10T12:02:47.705517+00:00,INFO,IPP_CONNECTION_OBSERVED,172.19.0.3,172.19.0.2,TCP connection attempt to allowed port 8631
+2026-11-10T12:02:47.705570+00:00,INFO,IPP_CONNECTION_OBSERVED,172.19.0.3,172.19.0.2,TCP connection attempt to allowed port 8631
